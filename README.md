@@ -1,10 +1,14 @@
-# Ignore compiled C++ files
-*.exe
-*.o
+# Competitive Code Vault
 
-# Ignore VS Code settings (optional)
-.vscode/
+Welcome to my competitive programming repository!
 
-# Ignore Code::Blocks files (optional)
-*.layout
-*.depend
+## 📌 About
+This repository contains my solutions to competitive programming problems.
+
+## 💻 Language
+- C++
+
+## 🌐 Platform
+- Codeforces
+
+I upload one solution at a time as I solve new problems.
