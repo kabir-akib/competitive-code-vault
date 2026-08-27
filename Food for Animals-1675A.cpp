@@ -6,9 +6,6 @@ int main(){
     while(t--){
         long long a,b,c,x,y;
         cin>>a>>b>>c>>x>>y;
-        long long animal=x+y;
-        long long food=a+b+c;
-
         if(a>=x){
              b=b+c;
         if(b>=y){
@@ -43,8 +40,5 @@ int main(){
             }
 
         }
-
-
-
     }
 }
